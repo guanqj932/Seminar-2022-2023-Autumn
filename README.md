@@ -1,4 +1,4 @@
-# Seminar 2022-2023 Autumn
+# Graduate Seminar 2022-2023 Autumn
 
 |  Date   | Speaker  |Paper | Speaker  |Paper |
 |  ----  | ----  | ---- |----  | ---- |
