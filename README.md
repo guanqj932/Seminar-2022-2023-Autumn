@@ -19,7 +19,8 @@
 |  Date   | Speaker  |Speaker | Speaker  |Speaker |
 |  ----  | ----  | ---- |----  | ---- |
 | 9.15  | Xiaoyu Chen [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Niu_Counterfactual_VQA_A_Cause-Effect_Look_at_Language_Bias_CVPR_2021_paper.pdf)][[Code](https://github.com/yuleiniu/cfvqa)] | ----   |----  | ---- |
-| 9.22  | ----  | ----   |----  | ---- |
+| 9.22  | Li Huang [[Paper
+(https://openaccess.thecvf.com/content/CVPR2022/papers/Jia_Exploring_Frequency_Adversarial_Attacks_for_Face_Forgery_Detection_CVPR_2022_paper.pdf)]  | ----   |----  | ---- |
 | 9.29  | ----  | ----   |----  | ---- |
 | 10.13  | ----  | ----   |----  | ---- |
 | 10.20  | ----  | ----   |----  | ---- |
