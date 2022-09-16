@@ -2,7 +2,7 @@
 
 |  Date   | Speaker  |Paper | Speaker  |Paper |
 |  ----  | ----  | ---- |----  | ---- |
-| 9.15  | Zhuangzhuang Li  | [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Noise-Resistant_Deep_Metric_Learning_With_Ranking-Based_Instance_Selection_CVPR_2021_paper.pdf)][[Code](https://github.com/alibaba-edu/Ranking-based-Instance-Selection)]   |----  | ---- |
+| 9.15  | Zhuangzhuang Li  | [[Noise-resistant Deep Metric Learning with Ranking-based Instance Selection](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Noise-Resistant_Deep_Metric_Learning_With_Ranking-Based_Instance_Selection_CVPR_2021_paper.pdf)][[Code](https://github.com/alibaba-edu/Ranking-based-Instance-Selection)]   |----  | ---- |
 | 9.22  | ----  | ----   |----  | ---- |
 | 9.29  | ----  | ----   |----  | ---- |
 | 10.13  | ----  | ----   |----  | ---- |
