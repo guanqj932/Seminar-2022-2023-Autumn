@@ -6,7 +6,7 @@
 | 9.22  | Jiayu Zhang | [[decouple Knowledge distillation](https://arxiv.org/abs/2203.08679)][[Class-incremental Novel Class Discovery](https://arxiv.org/abs/2207.08605)]  |----  | ---- |
 | 9.29  | ----  | ----   |----  | ---- |
 | 10.13  | ----  | ----   |----  | ---- |
-| 10.20  | ----  | ----   |----  | ---- |
+| 10.20  | Zhuangzhuang Li  | [[Selective-Supervised Contrastive Learning with Noisy Labels](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Selective-Supervised_Contrastive_Learning_With_Noisy_Labels_CVPR_2022_paper.pdf)][[Code](https://github.com/ShikunLi/Sel-CL)]   |----  | ---- |
 | 10.27  | ----  | ----   |----  | ---- |
 | 11.3  | ----  | ----   |----  | ---- |
 | 11.10  | ----  | ----   |----  | ---- |
